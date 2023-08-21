@@ -7,4 +7,4 @@ This repository is a place where i collect all the useful PowerShell scripts fou
 
 ## :bookmark_tabs: References
 
-- https://charbelnemnom.com/
+- https://charbelnemnom.com/ 
